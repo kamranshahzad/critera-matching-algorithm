@@ -1,4 +1,4 @@
-# Passbook UI
+# Critera matching algorithm
 
 ## Description
 
